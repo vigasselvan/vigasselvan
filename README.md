@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vigasselvan
 - 👀 I’m interested in Web development and ML.
-- 🌱 I’m currently learning full-stack development.
+- 🌱 I’m currently learning MERN stack development.
 - 💞️ I’m looking to collaborate on Web development.
 - 📫 reach me in twitter.
 
